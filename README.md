@@ -12,6 +12,14 @@ To Do:
 * Evaluate accuracy
 * Fine-tune and optimize functions and model
 
+Tools:
+* pandas
+* torchaudio - transforms
+* torchvision
+* pydub - AudioSegment
+* os
+* matplotlib
+
 
 <img width="528" alt="Screenshot 2023-10-21 at 12 29 11 PM" src="https://github.com/GageHoweTamu/SongGenreClassifier/assets/116420022/7be5abb2-7040-4ed1-94a3-8d7364ffbe85">
 
