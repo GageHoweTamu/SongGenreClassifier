@@ -4,6 +4,7 @@ Goals: Classifies niche and closely related subgenres of electronic music. Conve
 ##### (Contact me to see the code, it isn't public right now: howe.gaged@gmail.com)
 
 Progress:
+* Connect Google Colab to my data
 * Function to convert all MP3 files to an n-seconds-long WAV segment chosen by average loudness (LUFS) (reduced processing time and storage requirements of previous implementation by 3000%)
 * Function to make a mel spectrogram from each segment with FFT magic
 
