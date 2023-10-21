@@ -3,8 +3,8 @@
 Goals: Classifies niche and closely related subgenres of electronic music. Converts audio to Mel spectograms and performs image classification to determine subgenre
 
 Progress:
-* Function to convert all MP3 files to an n-seconds-long WAV segment chosen by average loudness (LUFS)
-* Function to make a mel spectrogram from each segment
+* Function to convert all MP3 files to an n-seconds-long WAV segment chosen by average loudness (LUFS) (reduced processing time and storage requirements of previous implementation by 3000%)
+* Function to make a mel spectrogram from each segment with FFT magic
 
 To Do: 
 * Organize data according to genre
