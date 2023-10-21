@@ -8,10 +8,10 @@ Progress:
 * Function to make a mel spectrogram from each segment with FFT magic
 
 To Do: 
-* Organize data according to genre
+* Organize data according to genre with Pandas dataframes
 * Train model on existing data
 * Evaluate accuracy
-* Fine-tune and optimize functions and model
+* Fine-tune and optimize functions and model (spectrograms are very noisy)
 
 Tools:
 * pandas
