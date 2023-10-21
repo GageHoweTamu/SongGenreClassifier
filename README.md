@@ -10,7 +10,7 @@ Progress:
 
 To Do: 
 * Organize data according to genre with Pandas dataframes
-* Train model on existing data
+* Implement and train semi-supervised clustering model on existing data
 * Evaluate accuracy
 * Fine-tune and optimize functions and model (spectrograms are very noisy)
 
